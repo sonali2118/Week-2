@@ -1,4 +1,4 @@
-# 🏪 Shop Sales Prediction
+# 🏪 Stores Sales Prediction
 
 ## 📌 Project Overview
 
